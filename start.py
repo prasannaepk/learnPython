@@ -1,4 +1,9 @@
 import time
 
 
-print "hello"
+print "helo"
+
+a=10
+b=20
+
+print "test"
